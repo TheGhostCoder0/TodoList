@@ -24,13 +24,13 @@ Ensure you have Go installed on your system. You can download it from [here](htt
 To run the application, execute the following command in the project directory:
 
 ```
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/TheGhostCoder0/TodoList.git
 ```
 
 2. Navigate to the project directory:
 
 ```
-cd your-repo-name
+cd TodoList
 ```
 
 ### Running the Application
