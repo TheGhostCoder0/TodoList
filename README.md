@@ -22,10 +22,20 @@ Ensure you have Go installed on your system. You can download it from [here](htt
 ### Installation
 1. Clone the repository to your local machine:
 To run the application, execute the following command in the project directory:
-```git clone https://github.com/your-username/your-repo-name.git```
+
+```
+git clone https://github.com/your-username/your-repo-name.git
+```
+
 2. Navigate to the project directory:
-```cd your-repo-name```
+
+```
+cd your-repo-name
+```
 
 ### Running the Application
 To run the application, execute the following command in the project directory:
-```go run main.go```
+
+```
+go run main.go
+```
